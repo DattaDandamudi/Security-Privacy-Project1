@@ -1,3 +1,9 @@
+/*
+ * Logan DesRochers
+ * Janak Datta Dandamudi
+ * Dan Watson
+ */ 
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.math.BigInteger;
